@@ -1,0 +1,9 @@
+{
+	"name": "midhundatafactory987",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3f847ac-3252-4ded-ad05-7432fc79aa8e",
+		"tenantId": "a9d32924-5cfc-47c8-8210-6011e425166c"
+	}
+}
