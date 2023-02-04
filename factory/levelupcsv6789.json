@@ -1,0 +1,9 @@
+{
+	"name": "levelupcsv6789",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cdea49c-741b-4a8a-a780-a70d6d4ec869",
+		"tenantId": "a9d32924-5cfc-47c8-8210-6011e425166c"
+	}
+}
